@@ -13,7 +13,7 @@
             "germanExampleSentences": ["Ich hebe einen Hund!"]
         },
         {
-            "id": 1,
+            "id": 2,
             "wordLevel": "A1.1",
             "wordImage": "",
             "wordInGerman": "Katze",
@@ -23,6 +23,18 @@
             "persianTranslations": ["گربه"],
             "englishTranslations": ["cat"],
             "germanExampleSentences": ["Ich hebe eine Katze!"]
+        },
+        {
+            "id": 3,
+            "wordLevel": "A1.1",
+            "wordImage": "",
+            "wordInGerman": "gehen",
+            "nounPlural": "",
+            "nounGender": "",
+            "wordCategory": "Verb",
+            "persianTranslations": ["رفتن"],
+            "englishTranslations": ["go"],
+            "germanExampleSentences": ["Ich gehe nach Hause!"]
         }
     ]
 }
