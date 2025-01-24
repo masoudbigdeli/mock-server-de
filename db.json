@@ -3,7 +3,7 @@
         {
             "id": 1,
             "wordLevel": "A1.1",
-            "wordImage": "",
+            "wordImage": "almani-small-192.png",
             "wordInGerman": "Hund",
             "nounPlural": "Hunde",
             "nounGender": "Maskulin",
@@ -14,8 +14,8 @@
         },
         {
             "id": 2,
-            "wordLevel": "A1.1",
-            "wordImage": "",
+            "wordLevel": "C1.1",
+            "wordImage": "almani-small-192.png",
             "wordInGerman": "Katze",
             "nounPlural": "Katzen",
             "nounGender": "Feminin",
@@ -26,8 +26,8 @@
         },
         {
             "id": 3,
-            "wordLevel": "A1.1",
-            "wordImage": "",
+            "wordLevel": "B1.1",
+            "wordImage": "almani-small-192.png",
             "wordInGerman": "gehen",
             "nounPlural": "",
             "nounGender": "",
@@ -36,5 +36,16 @@
             "englishTranslations": ["go"],
             "germanExampleSentences": ["Ich gehe nach Hause!"]
         }
+    ],
+
+    "german-level-widgets": [
+        [
+            "vocabulary",
+            "grammar"
+        ],
+        [
+            "vocabulary",
+            "grammar"
+        ]
     ]
 }
