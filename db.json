@@ -6,11 +6,19 @@
             "wordImage": "almani-small-192.png",
             "wordInGerman": "Hund",
             "nounPlural": "Hunde",
+            "hasDetails": false,
             "nounGender": "Maskulin",
             "wordCategory": "Substantive",
-            "persianTranslations": ["سگ"],
-            "englishTranslations": ["dog"],
-            "germanExampleSentences": ["Ich hebe einen Hund!"]
+            "verbStateOfRegularity": "",
+            "persianTranslations": [
+                "سگ"
+            ],
+            "englishTranslations": [
+                "dog"
+            ],
+            "germanExampleSentences": [
+                "Ich hebe einen Hund!"
+            ]
         },
         {
             "id": "2",
@@ -18,26 +26,51 @@
             "wordImage": "almani-small-192.png",
             "wordInGerman": "Katze",
             "nounPlural": "Katzen",
+            "hasDetails": false,
             "nounGender": "Feminin",
             "wordCategory": "Substantive",
-            "persianTranslations": ["گربه"],
-            "englishTranslations": ["cat"],
-            "germanExampleSentences": ["Ich hebe eine Katze!"]
+            "verbStateOfRegularity": "",
+            "persianTranslations": [
+                "گربه"
+            ],
+            "englishTranslations": [
+                "cat"
+            ],
+            "germanExampleSentences": [
+                "Ich hebe eine Katze!"
+            ]
         },
         {
             "id": "3",
             "wordLevel": "B1.1",
             "wordImage": "almani-small-192.png",
             "wordInGerman": "gehen",
+            "hasDetails": true,
+            "wordDetails" : [
+                    {
+                        "title": "Präsens", 
+                        "data": ["ich gehe", "du gehst", "er geht", "wir gehen", "ihr geht", "sie gehen" ]
+                    },
+                    {
+                        "title": "Präteritum", 
+                        "data": ["ich ging", "du gingst", "er ging", "wir gingen", "ihr gingt", "sie gingen" ]
+                    }
+                ],
             "nounPlural": "",
             "nounGender": "",
             "wordCategory": "Verb",
-            "persianTranslations": ["رفتن"],
-            "englishTranslations": ["go"],
-            "germanExampleSentences": ["Ich gehe nach Hause!"]
+            "verbStateOfRegularity": "unregelmäßig",
+            "persianTranslations": [
+                "رفتن"
+            ],
+            "englishTranslations": [
+                "go"
+            ],
+            "germanExampleSentences": [
+                "Ich gehe nach Hause!"
+            ]
         }
     ],
-
     "german-level-widgets": [
         [
             "vocabulary",
