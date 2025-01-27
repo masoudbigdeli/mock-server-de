@@ -3,13 +3,72 @@
         {
             "id": "1",
             "wordLevel": "A1.1",
-            "wordImage": "almani-small-192.png",
+            "wordImage": "nak.svg",
             "wordInGerman": "Hund",
-            "nounPlural": "Hunde",
+            "wordSecondaryData": "Hunde",
+            "wordCategory": "noun",
             "hasDetails": false,
-            "nounGender": "Maskulin",
-            "wordCategory": "Substantive",
-            "verbStateOfRegularity": "",
+            "wordDetails": [],
+            "nounGrammaticFeatures": {
+                "nounGender": "maskulin", 
+                "number": "Singular",       
+                "case": "Nominativ"    
+            },
+            "verbGrammaticFeatures": {
+                "regularity": "",           
+                "tense": "",                
+                "mood": "",                 
+                "voice": "",                
+                "person": "",               
+                "number": "",              
+                "separablePrefix": "",      
+                "reflexivity": ""           
+            },
+            "adjectiveGrammaticFeatures": {
+                "degreeOfComparison": "",   
+                "regularity": "",           
+                "gradability": "",          
+                "declensionPattern": "",    
+                "case": "",                 
+                "gender": "",               
+                "number": ""                
+            },
+            "pronounGrammaticFeatures": {
+                "pronounType": "",          
+                "case": "",                 
+                "person": "",               
+                "gender": "",               
+                "number": ""                
+            },
+            "adverbGrammaticFeatures": {
+                "adverbType": "",           
+                "comparability": ""         
+            },
+            "articleGrammaticFeatures": {
+                "articleType": "",         
+                "gender": "",              
+                "case": "",                 
+                "number": ""                
+            },
+            "prepositionGrammaticFeatures": {
+                "governingCase": "",        
+                "prepositionType": "",      
+                "positionInSentence": ""    
+            },
+            "conjunctionGrammaticFeatures": {
+                "conjunctionType": "",      
+                "clauseDependency": ""      
+            },
+            "interjectionGrammaticFeatures": {
+                "emotionType": "",          
+                "usageContext": ""          
+            },
+            "numeralGrammaticFeatures": {
+                "numeralType": "",          
+                "gender": "",               
+                "case": "",                 
+                "number": ""                
+            },
             "persianTranslations": [
                 "سگ"
             ],
@@ -17,49 +76,145 @@
                 "dog"
             ],
             "germanExampleSentences": [
-                "Ich hebe einen Hund!"
+                {
+                  "sentence": "Ich habe einen Hund.",
+                  "translationPersian": "من یک سگ دارم.",
+                  "translationEnglish": "I have a dog."
+                },
+                {
+                  "sentence": "Der Hund bellt laut.",
+                  "translationPersian": "سگ بلند پارس می‌کند.",
+                  "translationEnglish": "The dog barks loudly."
+                }
             ]
         },
         {
             "id": "2",
-            "wordLevel": "C1.1",
-            "wordImage": "almani-small-192.png",
-            "wordInGerman": "Katze",
-            "nounPlural": "Katzen",
-            "hasDetails": false,
-            "nounGender": "Feminin",
-            "wordCategory": "Substantive",
-            "verbStateOfRegularity": "",
-            "persianTranslations": [
-                "گربه"
-            ],
-            "englishTranslations": [
-                "cat"
-            ],
-            "germanExampleSentences": [
-                "Ich hebe eine Katze!"
-            ]
-        },
-        {
-            "id": "3",
-            "wordLevel": "B1.1",
-            "wordImage": "almani-small-192.png",
+            "wordLevel": "A1.1",
+            "wordImage": "nak.svg",
             "wordInGerman": "gehen",
+            "wordSecondaryData": "geht · ging · ist gegangen",
             "hasDetails": true,
-            "wordDetails" : [
-                    {
-                        "title": "Präsens", 
-                        "data": ["ich gehe", "du gehst", "er geht", "wir gehen", "ihr geht", "sie gehen" ]
-                    },
-                    {
-                        "title": "Präteritum", 
-                        "data": ["ich ging", "du gingst", "er ging", "wir gingen", "ihr gingt", "sie gingen" ]
-                    }
-                ],
-            "nounPlural": "",
-            "nounGender": "",
+            "wordDetails": [
+                {
+                    "title": "Präsens",
+                    "data": [
+                        "ich gehe",
+                        "du gehst",
+                        "er geht",
+                        "wir gehen",
+                        "ihr geht",
+                        "sie gehen"
+                    ]
+                },
+                {
+                    "title": "Präteritum",
+                    "data": [
+                        "ich ging",
+                        "du gingst",
+                        "er ging",
+                        "wir gingen",
+                        "ihr gingt",
+                        "sie gingen"
+                    ]
+                },
+                {
+                    "title": "Imperativ",
+                    "data": [
+                        "-",
+                        "geh(e) (du)",
+                        "-",
+                        "geh(e)n wir",
+                        "geht (ihr)",
+                        "geh(e)n Sie"
+                    ]
+                },
+                {
+                    "title": "Konjunktiv I",
+                    "data": [
+                        "ich gehe",
+                        "du gehest",
+                        "er gehe",
+                        "wir geh(e)n",
+                        "ihr gehet",
+                        "sie geh(e)n"
+                    ]
+                },
+                {
+                    "title": "Konjunktiv II",
+                    "data": [
+                        "ich ginge",
+                        "du gingest",
+                        "er ginge",
+                        "wir gingen",
+                        "ihr ginget",
+                        "sie gingen"
+                    ]
+                },
+                {
+                    "title": "Partizip I",
+                    "data": [
+                        "gehend"
+                    ]
+                },
+                {
+                    "title": "Partizip II",
+                    "data": [
+                        "gegangen"
+                    ]
+                }
+            ],
             "wordCategory": "Verb",
-            "verbStateOfRegularity": "unregelmäßig",
+            "nounGrammaticFeatures": {
+                "nounGender": ""
+            },
+            "verbGrammaticFeatures": {
+                "regularity": "unregelmäßig",       
+                "tense": "",                       
+                "mood": "",                        
+                "voice": "active",                 
+                "person": "",                      
+                "number": "",                     
+                "separablePrefix": "no",           
+                "reflexivity": "no"
+            },
+            "adjectiveGrammaticFeatures": {},
+            "pronounGrammaticFeatures": {
+                "pronounType": "",
+                "case": "",
+                "person": "",
+                "gender": "",
+                "number": ""
+            },
+            "adverbGrammaticFeatures": {
+                "adverbType": "",
+                "comparability": ""
+            },
+            "articleGrammaticFeatures": {
+                "articleType": "",
+                "gender": "",
+                "case": "",
+                "number": ""
+            },
+            "prepositionGrammaticFeatures": {
+                "governingCase": "",
+                "prepositionType": "",
+                "positionInSentence": ""
+            },
+            "conjunctionGrammaticFeatures": {
+                "conjunctionType": "",
+                "clauseDependency": ""
+            },
+            "interjectionGrammaticFeatures": {
+                "emotionType": "",
+                "usageContext": ""
+            },
+            "numeralGrammaticFeatures": {
+                "numeralType": "",
+                "gender": "",
+                "case": "",
+                "number": ""
+            },
             "persianTranslations": [
                 "رفتن"
             ],
@@ -67,9 +222,20 @@
                 "go"
             ],
             "germanExampleSentences": [
-                "Ich gehe nach Hause!"
+                {
+                    "sentence": "Ich gehe nach Hause!",
+                    "translationPersian": "من به خانه می‌روم!",
+                    "translationEnglish": "I am going home!"
+                },
+                {
+                    "sentence": "Er geht jeden Tag zur Arbeit.",
+                    "translationPersian": "او هر روز به سر کار می‌رود.",
+                    "translationEnglish": "He goes to work every day."
+                }
             ]
         }
+        
+        
     ],
     "german-level-widgets": [
         [
